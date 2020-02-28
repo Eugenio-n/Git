@@ -1,5 +1,6 @@
 Some text
 	
 	write"Hello world!"
+	write"Hello peple!"
 	
 	
